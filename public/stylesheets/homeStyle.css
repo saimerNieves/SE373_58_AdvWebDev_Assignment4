@@ -1,0 +1,15 @@
+body{ 
+
+    width:100%;
+    height:500px;
+    text-align: center;
+    margin-top:100px;
+    font-size: x-large;
+}
+
+button {
+
+    background-color: rgb(93, 255, 93);
+    border-radius:20px;
+    color:black;
+}
